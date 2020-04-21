@@ -4,7 +4,7 @@
 
 <h3>My first project</h3>
 
-<p> Niku</p>>
+<p>Hello world my first jenkins project</p>>
 
 </body>
 </html>
